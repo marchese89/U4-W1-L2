@@ -11,6 +11,7 @@ public class Ex3 {
             System.out.println(suddividi(s));
             s = sc.nextLine();
         }
+        sc.close();
     }
 
     public static String suddividi(String s){
